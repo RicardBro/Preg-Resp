@@ -1,0 +1,11 @@
+C:\Users\Ricardo\Documents\Github\Preg-Resp\Preg&Resp\MPP\bin\Debug\MPP.dll
+C:\Users\Ricardo\Documents\Github\Preg-Resp\Preg&Resp\MPP\bin\Debug\MPP.pdb
+C:\Users\Ricardo\Documents\Github\Preg-Resp\Preg&Resp\MPP\bin\Debug\BE.dll
+C:\Users\Ricardo\Documents\Github\Preg-Resp\Preg&Resp\MPP\bin\Debug\DAL.dll
+C:\Users\Ricardo\Documents\Github\Preg-Resp\Preg&Resp\MPP\bin\Debug\BE.pdb
+C:\Users\Ricardo\Documents\Github\Preg-Resp\Preg&Resp\MPP\bin\Debug\DAL.pdb
+C:\Users\Ricardo\Documents\Github\Preg-Resp\Preg&Resp\MPP\obj\Debug\MPP.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Documents\Github\Preg-Resp\Preg&Resp\MPP\obj\Debug\MPP.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Github\Preg-Resp\Preg&Resp\MPP\obj\Debug\MPP.csproj.CopyComplete
+C:\Users\Ricardo\Documents\Github\Preg-Resp\Preg&Resp\MPP\obj\Debug\MPP.dll
+C:\Users\Ricardo\Documents\Github\Preg-Resp\Preg&Resp\MPP\obj\Debug\MPP.pdb
